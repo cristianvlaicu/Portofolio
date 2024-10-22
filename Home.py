@@ -1,5 +1,4 @@
-from locale import \
-    format_string  # Vamos a crear una página WEB con múltiples columnas y mútiples páginas dentro de la misma web.
+        # Vamos a crear una página WEB con múltiples columnas y mútiples páginas (con formulario para que nos manden un email) dentro de la misma web.
 
 import streamlit as st  # importamos la librería de streamlit.
 import pandas
